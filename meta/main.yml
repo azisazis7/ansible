@@ -1,3 +1,6 @@
 ---
-test: metafile
-  test1: somefile
+- path: /
+  test: metafile
+    test1: somefile
+    test2: 42
+...
